@@ -1,4 +1,4 @@
-index,date,team,opponent,scorer,age,career_goal_number,primary_assist,secondary_assist,goalie,period,time,strength,other,arena
+index,date,team,home_or_away,opponent,game_result,game_finish,scorer,age,career_goal_number,primary_assist,secondary_assist,goalie,period,time,strength,other,arena
 1,2019-10-02,EDM,,VAN,W,,Leon Draisaitl,23,126,Zack Kassian,Matt Benning,Jacob Markstrom,1,05:42,EV,,Rogers Place
 2,2019-10-02,EDM,,VAN,W,,Zack Kassian,28,68,Leon Draisaitl,Darnell Nurse,Jacob Markstrom,3,10:52,EV,,Rogers Place
 3,2019-10-02,EDM,,VAN,W,,Connor McDavid,22,129,Leon Draisaitl,Matt Benning,Jacob Markstrom,3,14:37,EV,,Rogers Place
