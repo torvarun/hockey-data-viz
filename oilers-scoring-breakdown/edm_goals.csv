@@ -1,0 +1,116 @@
+index,date,team,opponent,scorer,age,career_goal_number,primary_assist,secondary_assist,goalie,period,time,strength,other,arena
+1,2019-10-02,EDM,,VAN,W,,Leon Draisaitl,23,126,Zack Kassian,Matt Benning,Jacob Markstrom,1,05:42,EV,,Rogers Place
+2,2019-10-02,EDM,,VAN,W,,Zack Kassian,28,68,Leon Draisaitl,Darnell Nurse,Jacob Markstrom,3,10:52,EV,,Rogers Place
+3,2019-10-02,EDM,,VAN,W,,Connor McDavid,22,129,Leon Draisaitl,Matt Benning,Jacob Markstrom,3,14:37,EV,,Rogers Place
+4,2019-10-05,EDM,,LAK,W,,Connor McDavid,22,130,Leon Draisaitl,Oscar Klefbom,Jonathan Quick,1,00:53,EV,,Rogers Place
+5,2019-10-05,EDM,,LAK,W,,Zack Kassian,28,69,Leon Draisaitl,Connor McDavid,Jonathan Quick,2,04:51,EV,,Rogers Place
+6,2019-10-05,EDM,,LAK,W,,Joakim Nygard,26,1,Gaetan Haas,,Jonathan Quick,3,05:24,EV,,Rogers Place
+7,2019-10-05,EDM,,LAK,W,,Darnell Nurse,24,25,Tomas Jurco,,Jonathan Quick,3,10:10,EV,,Rogers Place
+8,2019-10-05,EDM,,LAK,W,,James Neal,32,271,Connor McDavid,Oscar Klefbom,Jonathan Quick,1,10:23,PP,,Rogers Place
+9,2019-10-05,EDM,,LAK,W,,James Neal,32,272,Connor McDavid,Oscar Klefbom,Jonathan Quick,3,13:28,PP,,Rogers Place
+10,2019-10-08,EDM,@,NYI,W,,James Neal,32,273,,,Semyon Varlamov,1,17:53,EV,,Nassau Veterans Memorial Coliseum
+11,2019-10-08,EDM,@,NYI,W,,Zack Kassian,28,70,Leon Draisaitl,Connor McDavid,Semyon Varlamov,2,08:46,EV,,Nassau Veterans Memorial Coliseum
+12,2019-10-08,EDM,@,NYI,W,,James Neal,32,276,Tomas Jurco,Oscar Klefbom,Thomas Greiss,3,06:51,EV,,Nassau Veterans Memorial Coliseum
+13,2019-10-08,EDM,@,NYI,W,,James Neal,32,274,Connor McDavid,Darnell Nurse,Semyon Varlamov,1,19:29,PP,,Nassau Veterans Memorial Coliseum
+14,2019-10-08,EDM,@,NYI,W,,James Neal,32,275,Leon Draisaitl,Connor McDavid,Semyon Varlamov,2,06:31,PP,,Nassau Veterans Memorial Coliseum
+15,2019-10-10,EDM,@,NJD,W,SO,Leon Draisaitl,23,127,Darnell Nurse,Zack Kassian,MacKenzie Blackwood,1,09:17,EV,,Prudential Center
+16,2019-10-10,EDM,@,NJD,W,SO,James Neal,32,277,Ryan Nugent-Hopkins,Connor McDavid,MacKenzie Blackwood,2,19:32,PP,,Prudential Center
+17,2019-10-10,EDM,@,NJD,W,SO,Connor McDavid,22,131,Oscar Klefbom,Ryan Nugent-Hopkins,MacKenzie Blackwood,3,18:54,PP,,Prudential Center
+18,2019-10-12,EDM,@,NYR,W,,Oscar Klefbom,26,30,Ryan Nugent-Hopkins,,Henrik Lundqvist,2,06:45,EV,,Madison Square Garden (IV)
+19,2019-10-12,EDM,@,NYR,W,,Leon Draisaitl,23,128,Connor McDavid,Ethan Bear,Henrik Lundqvist,3,13:12,EV,,Madison Square Garden (IV)
+20,2019-10-12,EDM,@,NYR,W,,Leon Draisaitl,23,129,Darnell Nurse,,,3,19:45,EV,EN,Madison Square Garden (IV)
+21,2019-10-12,EDM,@,NYR,W,,Connor McDavid,22,132,Leon Draisaitl,Oscar Klefbom,Henrik Lundqvist,3,09:44,PP,,Madison Square Garden (IV)
+22,2019-10-14,EDM,@,CHI,L,,James Neal,32,278,Ryan Nugent-Hopkins,Leon Draisaitl,Corey Crawford,3,17:49,PP,,United Center
+23,2019-10-16,EDM,,PHI,W,,Leon Draisaitl,23,130,Connor McDavid,Oscar Klefbom,Carter Hart,1,01:13,EV,,Rogers Place
+24,2019-10-16,EDM,,PHI,W,,Ethan Bear,22,2,James Neal,Ryan Nugent-Hopkins,Carter Hart,1,14:52,EV,,Rogers Place
+25,2019-10-16,EDM,,PHI,W,,Connor McDavid,22,133,Kris Russell,Oscar Klefbom,Carter Hart,2,12:34,EV,,Rogers Place
+26,2019-10-16,EDM,,PHI,W,,Brandon Manning,29,14,Connor McDavid,Zack Kassian,Brian Elliott,3,03:40,EV,,Rogers Place
+27,2019-10-16,EDM,,PHI,W,,Ryan Nugent-Hopkins,26,148,Leon Draisaitl,Connor McDavid,Carter Hart,2,14:32,PP,,Rogers Place
+28,2019-10-16,EDM,,PHI,W,,Leon Draisaitl,23,131,Connor McDavid,,Brian Elliott,2,16:26,PP,,Rogers Place
+29,2019-10-18,EDM,,DET,W,,James Neal,32,279,Alex Chiasson,Darnell Nurse,Jonathan Bernier,2,07:39,EV,,Rogers Place
+30,2019-10-18,EDM,,DET,W,,Ethan Bear,22,3,Leon Draisaitl,Darnell Nurse,Jonathan Bernier,2,12:22,EV,,Rogers Place
+31,2019-10-24,EDM,,WSH,W,OT,Darnell Nurse,24,26,Leon Draisaitl,Zack Kassian,Braden Holtby,1,13:20,EV,,Rogers Place
+32,2019-10-24,EDM,,WSH,W,OT,Leon Draisaitl,23,132,Connor McDavid,Zack Kassian,Braden Holtby,3,04:25,EV,,Rogers Place
+33,2019-10-24,EDM,,WSH,W,OT,Connor McDavid,22,134,James Neal,Alex Chiasson,Braden Holtby,3,18:22,EV,,Rogers Place
+34,2019-10-24,EDM,,WSH,W,OT,Leon Draisaitl,23,133,Connor McDavid,,Braden Holtby,OT,01:18,EV,,Rogers Place
+35,2019-10-27,EDM,,FLA,L,,Leon Draisaitl,24,134,Ethan Bear,Connor McDavid,Sergei Bobrovsky,3,13:18,EV,,Rogers Place
+36,2019-10-27,EDM,,FLA,L,,James Neal,32,280,Ryan Nugent-Hopkins,Leon Draisaitl,Sergei Bobrovsky,3,03:37,PP,,Rogers Place
+37,2019-10-29,EDM,@,DET,L,,Leon Draisaitl,24,135,Connor McDavid,,Jimmy Howard,3,12:48,EV,,Little Caesars Arena
+38,2019-10-30,EDM,@,CBJ,W,,Leon Draisaitl,24,136,Ryan Nugent-Hopkins,Alex Chiasson,Joonas Korpisalo,1,17:02,EV,,Nationwide Arena
+39,2019-10-30,EDM,@,CBJ,W,,Jujhar Khaira,25,16,Ryan Nugent-Hopkins,Sam Gagner,Joonas Korpisalo,2,01:20,EV,,Nationwide Arena
+40,2019-10-30,EDM,@,CBJ,W,,Leon Draisaitl,24,137,Zack Kassian,,Joonas Korpisalo,2,04:56,EV,,Nationwide Arena
+41,2019-10-30,EDM,@,CBJ,W,,James Neal,32,281,Leon Draisaitl,Connor McDavid,Joonas Korpisalo,1,09:11,PP,,Nationwide Arena
+42,2019-11-02,EDM,@,PIT,W,OT,Colby Cave,24,4,Matt Benning,Markus Granlund,Matt Murray,2,07:21,EV,,PPG Paints Arena
+43,2019-11-02,EDM,@,PIT,W,OT,Leon Draisaitl,24,138,,,Matt Murray,OT,02:37,EV,,PPG Paints Arena
+44,2019-11-04,EDM,,ARI,L,OT,Connor McDavid,22,135,Leon Draisaitl,,Darcy Kuemper,1,01:31,EV,,Rogers Place
+45,2019-11-04,EDM,,ARI,L,OT,Gaetan Haas,27,1,Matt Benning,Kris Russell,Darcy Kuemper,3,15:19,EV,,Rogers Place
+46,2019-11-06,EDM,,STL,L,,Zack Kassian,28,71,Leon Draisaitl,Connor McDavid,Jake Allen,3,11:02,EV,,Rogers Place
+47,2019-11-06,EDM,,STL,L,,Connor McDavid,22,136,Leon Draisaitl,Mike Smith,Jake Allen,1,02:46,PP,,Rogers Place
+48,2019-11-08,EDM,,NJD,W,,Leon Draisaitl,24,139,Ryan Nugent-Hopkins,Joel Persson,Cory Schneider,2,01:55,EV,,Rogers Place
+49,2019-11-08,EDM,,NJD,W,,Gaetan Haas,27,2,Matt Benning,Kris Russell,Cory Schneider,2,15:45,EV,,Rogers Place
+50,2019-11-08,EDM,,NJD,W,,James Neal,32,282,Alex Chiasson,Joel Persson,Cory Schneider,2,16:51,EV,,Rogers Place
+51,2019-11-08,EDM,,NJD,W,,Alex Chiasson,29,82,Ryan Nugent-Hopkins,Connor McDavid,Cory Schneider,3,06:02,PP,,Rogers Place
+52,2019-11-10,EDM,@,ANA,W,,Ryan Nugent-Hopkins,26,149,,,John Gibson,1,01:28,EV,,Honda Center
+53,2019-11-10,EDM,@,ANA,W,,Connor McDavid,22,137,Leon Draisaitl,Zack Kassian,John Gibson,1,10:40,EV,,Honda Center
+54,2019-11-10,EDM,@,ANA,W,,Zack Kassian,28,72,Patrick Russell,Ethan Bear,John Gibson,2,10:23,EV,,Honda Center
+55,2019-11-10,EDM,@,ANA,W,,Connor McDavid,22,138,Zack Kassian,Leon Draisaitl,John Gibson,3,07:14,EV,,Honda Center
+56,2019-11-10,EDM,@,ANA,W,,Ryan Nugent-Hopkins,26,150,Leon Draisaitl,Oscar Klefbom,John Gibson,2,07:45,PP,,Honda Center
+57,2019-11-10,EDM,@,ANA,W,,Connor McDavid,22,139,Oscar Klefbom,Leon Draisaitl,John Gibson,3,13:25,PP,,Honda Center
+58,2019-11-12,EDM,@,SJS,L,,Leon Draisaitl,24,140,Sam Gagner,Ethan Bear,Martin Jones,2,09:57,EV,,SAP Center at San Jose
+59,2019-11-12,EDM,@,SJS,L,,Zack Kassian,28,73,Leon Draisaitl,Connor McDavid,Martin Jones,3,09:08,EV,,SAP Center at San Jose
+60,2019-11-12,EDM,@,SJS,L,,Sam Gagner,30,159,Patrick Russell,Joakim Nygard,Martin Jones,3,12:18,EV,,SAP Center at San Jose
+61,2019-11-14,EDM,,COL,W,,Ryan Nugent-Hopkins,26,151,Connor McDavid,Leon Draisaitl,Adam Werner,1,06:16,EV,,Rogers Place
+62,2019-11-14,EDM,,COL,W,,Zack Kassian,28,74,Leon Draisaitl,Connor McDavid,Adam Werner,1,12:42,EV,,Rogers Place
+63,2019-11-14,EDM,,COL,W,,Connor McDavid,22,140,Oscar Klefbom,James Neal,Adam Werner,1,12:14,PP,,Rogers Place
+64,2019-11-14,EDM,,COL,W,,Connor McDavid,22,141,Leon Draisaitl,Oscar Klefbom,Adam Werner,1,15:51,PP,,Rogers Place
+65,2019-11-14,EDM,,COL,W,,Connor McDavid,22,142,Oscar Klefbom,Leon Draisaitl,Adam Werner,2,08:32,PP,,Rogers Place
+66,2019-11-14,EDM,,COL,W,,Ryan Nugent-Hopkins,26,152,Connor McDavid,Leon Draisaitl,Antoine Bibeau,2,18:15,PP,,Rogers Place
+67,2019-11-16,EDM,,DAL,L,OT,Jujhar Khaira,25,17,,,Ben Bishop,1,09:08,EV,,Rogers Place
+68,2019-11-16,EDM,,DAL,L,OT,Leon Draisaitl,24,141,Connor McDavid,Darnell Nurse,Ben Bishop,1,19:26,EV,,Rogers Place
+69,2019-11-16,EDM,,DAL,L,OT,Jujhar Khaira,25,18,Connor McDavid,Oscar Klefbom,Ben Bishop,2,03:34,EV,,Rogers Place
+70,2019-11-16,EDM,,DAL,L,OT,Ethan Bear,22,4,Connor McDavid,Leon Draisaitl,Anton Khudobin,2,18:41,PP,,Rogers Place
+71,2019-11-19,EDM,@,SJS,W,,Markus Granlund,26,56,Oscar Klefbom,Gaetan Haas,Martin Jones,1,03:34,EV,,SAP Center at San Jose
+72,2019-11-19,EDM,@,SJS,W,,Zack Kassian,28,75,Connor McDavid,Darnell Nurse,Martin Jones,1,07:59,EV,,SAP Center at San Jose
+73,2019-11-19,EDM,@,SJS,W,,Jujhar Khaira,25,19,Kris Russell,Riley Sheahan,Martin Jones,1,19:45,EV,,SAP Center at San Jose
+74,2019-11-19,EDM,@,SJS,W,,Connor McDavid,22,143,Darnell Nurse,Leon Draisaitl,Martin Jones,3,06:34,EV,,SAP Center at San Jose
+75,2019-11-19,EDM,@,SJS,W,,James Neal,32,283,Connor McDavid,Oscar Klefbom,Martin Jones,2,17:19,PP,,SAP Center at San Jose
+76,2019-11-21,EDM,@,LAK,L,,Connor McDavid,22,144,,,Jonathan Quick,2,00:38,EV,,STAPLES Center
+77,2019-11-23,EDM,@,VEG,W,,Connor McDavid,22,145,Leon Draisaitl,Zack Kassian,Marc-Andre Fleury,1,05:17,EV,,T-Mobile Arena
+78,2019-11-23,EDM,@,VEG,W,,Ethan Bear,22,5,Leon Draisaitl,Zack Kassian,Marc-Andre Fleury,1,16:00,EV,,T-Mobile Arena
+79,2019-11-23,EDM,@,VEG,W,,Markus Granlund,26,57,Gaetan Haas,Patrick Russell,Marc-Andre Fleury,2,12:04,EV,,T-Mobile Arena
+80,2019-11-23,EDM,@,VEG,W,,Connor McDavid,22,146,Leon Draisaitl,Ryan Nugent-Hopkins,Marc-Andre Fleury,3,02:11,PP,,T-Mobile Arena
+81,2019-11-24,EDM,@,ARI,W,SO,Alex Chiasson,29,83,Sam Gagner,Oscar Klefbom,Darcy Kuemper,2,01:22,EV,,Gila River Arena
+82,2019-11-24,EDM,@,ARI,W,SO,Markus Granlund,26,58,Patrick Russell,,Darcy Kuemper,3,13:12,EV,,Gila River Arena
+83,2019-11-24,EDM,@,ARI,W,SO,James Neal,32,284,Leon Draisaitl,Connor McDavid,Darcy Kuemper,1,02:05,PP,,Gila River Arena
+84,2019-11-27,EDM,@,COL,L,,Jujhar Khaira,25,20,Darnell Nurse,,Philipp Grubauer,1,13:17,EV,,Pepsi Center
+85,2019-11-30,EDM,,VAN,L,,Connor McDavid,22,147,Ethan Bear,Sam Gagner,Jacob Markstrom,1,14:14,EV,,Rogers Place
+86,2019-11-30,EDM,,VAN,L,,Zack Kassian,28,76,Connor McDavid,,Jacob Markstrom,2,05:05,EV,,Rogers Place
+87,2019-12-01,EDM,@,VAN,W,,Josh Archibald,27,21,Darnell Nurse,Connor McDavid,Jacob Markstrom,1,09:09,EV,,Rogers Arena
+88,2019-12-01,EDM,@,VAN,W,,Leon Draisaitl,24,142,Connor McDavid,Alex Chiasson,Jacob Markstrom,2,13:51,PP,,Rogers Arena
+89,2019-12-01,EDM,@,VAN,W,,Leon Draisaitl,24,143,James Neal,Alex Chiasson,Jacob Markstrom,3,00:46,PP,,Rogers Arena
+90,2019-12-04,EDM,,OTT,L,,Jujhar Khaira,25,21,Leon Draisaitl,Sam Gagner,Craig Anderson,1,14:09,EV,,Rogers Place
+91,2019-12-04,EDM,,OTT,L,,Oscar Klefbom,26,31,Sam Gagner,James Neal,Craig Anderson,2,17:37,PP,,Rogers Place
+92,2019-12-06,EDM,,LAK,W,,Leon Draisaitl,24,144,Alex Chiasson,James Neal,Jonathan Quick,1,11:02,PP,,Rogers Place
+93,2019-12-06,EDM,,LAK,W,,Alex Chiasson,29,84,Connor McDavid,Leon Draisaitl,Jonathan Quick,1,14:46,PP,,Rogers Place
+94,2019-12-08,EDM,,BUF,L,OT,Riley Sheahan,28,59,Joakim Nygard,Darnell Nurse,Linus Ullmark,2,08:25,EV,,Rogers Place
+95,2019-12-08,EDM,,BUF,L,OT,Joakim Nygard,26,2,Darnell Nurse,Gaetan Haas,Linus Ullmark,2,15:56,PP,,Rogers Place
+96,2019-12-10,EDM,,CAR,L,,Zack Kassian,28,77,Caleb Jones,Connor McDavid,James Reimer,2,07:45,EV,,Rogers Place
+97,2019-12-10,EDM,,CAR,L,,Zack Kassian,28,78,Connor McDavid,Joakim Nygard,James Reimer,3,05:40,EV,,Rogers Place
+98,2019-12-10,EDM,,CAR,L,,Ryan Nugent-Hopkins,26,153,Leon Draisaitl,Connor McDavid,James Reimer,3,02:51,PP,,Rogers Place
+99,2019-12-12,EDM,@,MIN,L,,Oscar Klefbom,26,32,Sam Gagner,James Neal,Kaapo Kahkonen,1,08:00,EV,,Xcel Energy Center
+100,2019-12-12,EDM,@,MIN,L,,Gaetan Haas,27,3,Adam Larsson,,Kaapo Kahkonen,3,10:43,EV,,Xcel Energy Center
+101,2019-12-12,EDM,@,MIN,L,,Connor McDavid,22,148,Ethan Bear,Darnell Nurse,Kaapo Kahkonen,3,12:49,EV,,Xcel Energy Center
+102,2019-12-12,EDM,@,MIN,L,,James Neal,32,285,Zack Kassian,Ryan Nugent-Hopkins,Kaapo Kahkonen,3,19:11,EV,,Xcel Energy Center
+103,2019-12-12,EDM,@,MIN,L,,Leon Draisaitl,24,145,Connor McDavid,Oscar Klefbom,Kaapo Kahkonen,2,02:00,PP,,Xcel Energy Center
+104,2019-12-14,EDM,,TOR,L,,Alex Chiasson,29,85,Leon Draisaitl,Oscar Klefbom,Frederik Andersen,3,06:08,PP,,Rogers Place
+105,2019-12-16,EDM,@,DAL,W,,Zack Kassian,28,79,Connor McDavid,Darnell Nurse,Ben Bishop,1,08:07,EV,,American Airlines Center
+106,2019-12-16,EDM,@,DAL,W,,Leon Draisaitl,24,146,Alex Chiasson,Connor McDavid,Ben Bishop,1,14:13,PP,,American Airlines Center
+107,2019-12-18,EDM,@,STL,L,,James Neal,32,286,Zack Kassian,Leon Draisaitl,Jake Allen,3,18:10,EV,,Enterprise Center
+108,2019-12-20,EDM,,PIT,L,,Zack Kassian,28,80,Darnell Nurse,Ethan Bear,Tristan Jarry,2,06:41,EV,,Rogers Place
+109,2019-12-20,EDM,,PIT,L,,Riley Sheahan,28,60,Josh Archibald,,Tristan Jarry,2,19:37,SH,,Rogers Place
+110,2019-12-21,EDM,,MTL,W,,Leon Draisaitl,24,147,Connor McDavid,Zack Kassian,Carey Price,1,01:30,EV,,Rogers Place
+111,2019-12-21,EDM,,MTL,W,,Josh Archibald,27,22,Ethan Bear,Joakim Nygard,Carey Price,1,11:51,EV,,Rogers Place
+112,2019-12-21,EDM,,MTL,W,,Riley Sheahan,28,61,Josh Archibald,,Carey Price,3,07:48,EV,,Rogers Place
+113,2019-12-21,EDM,,MTL,W,,Connor McDavid,22,149,Leon Draisaitl,Ryan Nugent-Hopkins,Carey Price,2,15:40,PP,,Rogers Place
+114,2019-12-23,EDM,@,VAN,L,,Ryan Nugent-Hopkins,26,154,Caleb Jones,,Jacob Markstrom,1,15:40,EV,,Rogers Arena
+115,2019-12-23,EDM,@,VAN,L,,Oscar Klefbom,26,33,Connor McDavid,Leon Draisaitl,Jacob Markstrom,2,03:02,PP,,Rogers Arena
